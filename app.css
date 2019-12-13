@@ -11,7 +11,6 @@
   z-index: 1;
   position: relative;
   text-align: center;
-  padding-top: 20vh;
 }
 .landing-header h1{
 color: black;
@@ -109,8 +108,10 @@ animation: imageAnimation 50s linear infinite;
   font-size: 1.2rem;
   background: rgba(174, 201, 199, 0.78);
   width:100%;
+  margin-top: 5rem;
   padding-top: 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
+
 }
 #location {
   color:red;
